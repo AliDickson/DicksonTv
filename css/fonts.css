@@ -1,0 +1,64 @@
+@font-face{
+    font-family: Caveat;
+    src: url('../fonts/Caveat/Caveat-VariableFont_wght.ttf');
+}
+
+@font-face{
+    font-family: Open_Sans_Conden;
+    src: url('../fonts/Open_Sans_Condensed/OpenSansCondensed-Bold.ttf');
+}
+
+@font-face{
+    font-family: Redressed;
+    src: url('../fonts/Redressed/Redressed-Regular.ttf');
+}
+
+@font-face{
+    font-family: Oswald;
+    src: url('../fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
+
+@font-face{
+    font-family: Playfair_Display;
+    src: url('../fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf');
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url('../fonts/Poppins/Poppins-BlackItalic.ttf');
+}
+
+@font-face{
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Black.ttf');
+}
+
+@font-face{
+    font-family: Roboto__Condensed;
+    src: url('../fonts/Roboto_Condensed/RobotoCondensed-Bold.ttf');
+}
+
+@font-face{
+    font-family: Satisfy;
+    src: url('../fonts/Satisfy/Satisfy-Regular.ttf');
+}
+
+@font-face{
+    font-family: Shizuru;
+    src: url('../fonts/Shizuru/Shizuru-Regular.ttf');
+}
+
+@font-face{
+    font-family: Source_Sans_Pro;
+    src: url('../fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf');
+}
+
+@font-face{
+    font-family: Teko;
+    src: url('../fonts/Teko/Teko-Regular.ttf');
+}
+
+@font-face{
+    font-family: Ubuntu;
+    src: url('../fonts/Ubuntu/Ubuntu-Regular.ttf');
+    }
